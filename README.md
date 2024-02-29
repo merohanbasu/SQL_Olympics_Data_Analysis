@@ -29,5 +29,16 @@ SQL database management system (e.g., MySQL) <br>
 15.	List down the total gold, silver, and bronze medals won by each country corresponding to each Olympic game.
 16.	Identify which country won the most gold, most silver, and most bronze medals in each Olympic games.
 17.	Identify which country won the most gold, most silver, most bronze medals, and the most medals in each Olympic games.
-18.	Which countries have never won gold medals but have won silver/bronze medals?
+18.	Which countries have never won gold medals but have won silver/bronze medals? <be>
+
+## Instructions
+1. Download the dataset from Kaggle and place it in the 'data' directory.
+2. Set up a SQL database and import the dataset.
+3. Execute the SQL queries provided in the 'queries' directory to perform analysis.
+4. Review the results to gain insights into Olympic data trends.
+
+## Acknowledgments
+* The dataset used in this project was obtained from Kaggle.
+* Inspired by similar analyses found on Kaggle and other data science platforms.
+  
 
