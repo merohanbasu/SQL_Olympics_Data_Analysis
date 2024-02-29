@@ -1,6 +1,7 @@
 # Olympic_Data_Analysis
 
 Project Overview
+<br>
 This project aims to analyze the Olympics dataset sourced from Kaggle using SQL queries. The primary goal is to gain insights into various aspects of the Olympics, including athlete performance, medal distribution, and country participation.
 
 Dataset Description
